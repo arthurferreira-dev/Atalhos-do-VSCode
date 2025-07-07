@@ -2,7 +2,7 @@
 
 Você está cansado de fazer tudo na mão, então use atalhos, eles te ajudam fazer as coisas mais rápidas!
 
->[!ALERT]
+>[!IMPORTANT]
 >
 > No **Windows** e no **Linux** temos o ``ctrl`` e no **Mac** temos o ``command (⌘)``.
 
