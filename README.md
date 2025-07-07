@@ -36,6 +36,6 @@ Você está cansado de fazer tudo na mão, então use atalhos, eles te ajudam fa
 * ``ctrl`` + ``G`` = ir para uma linha que você seleciona
 * ``ctrl`` + ``↑ / ↓`` = ir para cima ou para baixo
 
-# LICENSE
+## LICENSE
 
 [MIT License](LICENSE)
